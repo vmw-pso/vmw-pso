@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on ...
 
-* Containerised, micro-services based inventory management system for use in Tanzu demonstrations
+* Containerised, micro-services based, inventory management system for use in Tanzu demonstrations
 * Signals ingesting and analysis platform to find links between trending words on social media
 
 <!--
