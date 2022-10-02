@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+### 🔭 I’m currently working on ...
+
+* Containerised, micro-services based inventory management system for use in Tanzu demonstrations
+* Signals ingesting and analysis platform to find links between trending words on social media
 
 <!--
 **vmw-pso/vmw-pso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
